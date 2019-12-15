@@ -1,5 +1,5 @@
 import React from '../node_modules/react';
-import { mount, shallow } from './node_modules/enzyme';
+import { mount, shallow } from 'enzyme';
 import {expect} from 'chai';
 
 import Avatar from '../lib/avatar';

@@ -1,5 +1,5 @@
 {
-  "name": "react-test-practice-enzyme",
+  "name": "react-test-practice-enzyme-original",
   "version": "1.0.0",
   "description": "Sample repo for a blog post on testing react components with enzyme",
   "main": "index.js",
